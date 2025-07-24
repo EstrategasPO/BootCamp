@@ -1,7 +1,7 @@
 # Estrategas P.O. | Portafolio Bootcamp Product Owner
 
 <p align="center">
-  <img src="/placeholder.logo.estrategas.png" alt="Logo Estrategas P.O."/>
+  <img src="[/placeholder.logo.estrategas.png](https://github.com/EstrategasPO/BootCamp/blob/main/placeholder-logo-equipo.png)"  alt="Logo Estrategas P.O."/>
 </p>
 
 ## ✨ Nuestra Misión
